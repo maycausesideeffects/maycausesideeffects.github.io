@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+html, body{
+  font-family: "Garaje", sans-serif;
+  background-color: #f2f2f2;
+  /*background-color: black;*/
+  position: relative;
+  align-items: center;
+}
+
+body, h1, h2, h3, h4, p, a{
+  color: black;
+  /*color: #f2f2f2;*/
+  text-decoration: none;
+  text-align: center;
+}
+@font-face {
+  font-family: "Garaje";
+  src: url("./fonts/Garaje-53-Uni-Black.otf");
+  font-weight: 500;
+}
+
+.wait-please{
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-top: 16%;
+  align-items: center;
+  width: 38%;
+  margin-left: 31%;
+  margin-right: 31%;
+  position: relative;
+  border: 5px dashed black;
+  /*border: 5px dashed #f2f2f2;*/
+}
+h1{
+  margin-bottom: 2%;
+}
+.gras{
+  border-bottom: 3px solid black;
+  /*border-bottom: 3px solid #f2f2f2;*/
+  width: 50%;
+  margin-right: 25%;
+  margin-left: 25%;
+}
