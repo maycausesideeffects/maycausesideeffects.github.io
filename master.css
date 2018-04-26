@@ -29,7 +29,7 @@ body, h1, h2, h3, h4, p, a{
   margin-left: 31%;
   margin-right: 31%;
   position: relative;
-  border: 5px dashed black;
+  /*border: 5px dashed black;*/
   /*border: 5px dashed #f2f2f2;*/
 }
 h1{
