@@ -24,7 +24,7 @@ h1{
 }
 h1:hover{
   color: blue;
-  font-family: "steinbeck-it";
+  /*font-family: "steinbeck-it";*/
   /*border-bottom: 1px solid blue;*/
 }
 a:hover{
