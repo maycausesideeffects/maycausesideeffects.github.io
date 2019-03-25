@@ -64,7 +64,9 @@ sup {
   vertical-align: 65px;
   margin-right: 10px;
 }
-
+.hr-marg-top{
+  margin-top: 18px;
+}
 .colonne-1 {
   width: 50%;
   float: left;
