@@ -20,12 +20,12 @@ h1{
   /*text-decoration: underline;
   text-underline-position: under;*/
   padding-bottom: 4px;
-  border-bottom: 1px solid black;
+  /*border-bottom: 1px solid black;*/
 }
 h1:hover{
   color: blue;
   font-family: "steinbeck-it";
-  border-bottom: 1px solid blue;
+  /*border-bottom: 1px solid blue;*/
 }
 a:hover{
   color: blue;
