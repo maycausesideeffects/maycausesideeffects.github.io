@@ -95,6 +95,16 @@ margin: 5% auto 0px auto;
   filter: invert(7%) sepia(100%) saturate(7450%) hue-rotate(248deg) brightness(103%) contrast(143%);
 }
 
+.moving-text {
+  margin: 0px;
+  padding: 0px;
+  position:absolute;
+  top: 0%;
+  left: 0%;
+  visibility: inherit;
+  opacity: 0;"
+}
+
 italic{
 font-family: "whyte-it"
 }
