@@ -32,7 +32,7 @@ for (var i = 0; i < items.length; i++) {
 			var y = e.clientY;
 			var elCoords = text.getBoundingClientRect();
 			var xOffset = x - elCoords.width / 2;
-			var yOffset = y - elCoords.height / 2;
+			var yOffset = y - elCoords.height / 2-30;
 			text.style.transform = "translate(" + xOffset + "px, " + yOffset + "px)";
 
 		}
