@@ -1,40 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="90.752px" height="47.146px" viewBox="0 0 90.752 47.146" enable-background="new 0 0 90.752 47.146" xml:space="preserve">
-<g id="Calque_1">
-</g>
-<g id="Calque_2">
-</g>
-<g id="Calque_3">
+<g>
 	<g>
-		<g>
-			
-				<rect x="32.246" y="32.125" fill="#FFFFFF" stroke="#1D1D1B" stroke-width="3" stroke-miterlimit="10" width="26.26" height="13.521"/>
-			<path fill="#1D1D1B" stroke="#1D1D1B" stroke-miterlimit="10" d="M58.506,28.458c0,0.919-0.746,1.666-1.666,1.666H33.914
-				c-0.92,0-1.668-0.747-1.668-1.666v-2.253c0-0.92,0.748-1.666,1.668-1.666H56.84c0.92,0,1.666,0.746,1.666,1.666V28.458z"/>
-		</g>
-		<g>
-			
-				<rect x="1.5" y="32.125" fill="#FFFFFF" stroke="#1D1D1B" stroke-width="3" stroke-miterlimit="10" width="26.26" height="13.521"/>
-			<path fill="#1D1D1B" stroke="#1D1D1B" stroke-miterlimit="10" d="M27.76,28.458c0,0.919-0.746,1.666-1.668,1.666H3.166
-				c-0.92,0-1.666-0.747-1.666-1.666v-2.253c0-0.92,0.746-1.666,1.666-1.666h22.926c0.922,0,1.668,0.746,1.668,1.666V28.458z"/>
-		</g>
-		<g>
-			
-				<rect x="62.994" y="32.125" fill="#FFFFFF" stroke="#1D1D1B" stroke-width="3" stroke-miterlimit="10" width="26.258" height="13.521"/>
-			<path fill="#1D1D1B" stroke="#1D1D1B" stroke-miterlimit="10" d="M89.252,28.458c0,0.919-0.744,1.666-1.666,1.666H64.66
-				c-0.92,0-1.666-0.747-1.666-1.666v-2.253c0-0.92,0.746-1.666,1.666-1.666h22.926c0.922,0,1.666,0.746,1.666,1.666V28.458z"/>
-		</g>
-		<g>
-			
-				<rect x="62.994" y="8.086" fill="#FFFFFF" stroke="#1D1D1B" stroke-width="3" stroke-miterlimit="10" width="26.258" height="13.521"/>
-			<path fill="#1D1D1B" stroke="#1D1D1B" stroke-miterlimit="10" d="M89.252,4.419c0,0.919-0.744,1.666-1.666,1.666H64.66
-				c-0.92,0-1.666-0.747-1.666-1.666V2.166c0-0.92,0.746-1.666,1.666-1.666h22.926c0.922,0,1.666,0.746,1.666,1.666V4.419z"/>
-		</g>
+		
+			<rect x="32.246" y="32.125" fill="none" stroke="#1D1D1B" stroke-width="3" stroke-miterlimit="10" width="26.261" height="13.521"/>
+		<path fill="#1D1D1B" stroke="#1D1D1B" stroke-miterlimit="10" d="M58.507,28.458c0,0.919-0.746,1.666-1.666,1.666H33.914
+			c-0.92,0-1.668-0.747-1.668-1.666v-2.253c0-0.92,0.748-1.666,1.668-1.666h22.927c0.92,0,1.666,0.746,1.666,1.666V28.458z"/>
 	</g>
-</g>
-<g id="Calque_4">
+	<g>
+		<rect x="1.5" y="32.125" fill="none" stroke="#1D1D1B" stroke-width="3" stroke-miterlimit="10" width="26.26" height="13.521"/>
+		<path fill="#1D1D1B" stroke="#1D1D1B" stroke-miterlimit="10" d="M27.76,28.458c0,0.919-0.746,1.666-1.668,1.666H3.166
+			c-0.92,0-1.666-0.747-1.666-1.666v-2.253c0-0.92,0.746-1.666,1.666-1.666h22.926c0.922,0,1.668,0.746,1.668,1.666V28.458z"/>
+	</g>
+	<g>
+		
+			<rect x="62.993" y="32.125" fill="none" stroke="#1D1D1B" stroke-width="3" stroke-miterlimit="10" width="26.259" height="13.521"/>
+		<path fill="#1D1D1B" stroke="#1D1D1B" stroke-miterlimit="10" d="M89.252,28.458c0,0.919-0.743,1.666-1.666,1.666H64.659
+			c-0.92,0-1.666-0.747-1.666-1.666v-2.253c0-0.92,0.746-1.666,1.666-1.666h22.927c0.923,0,1.666,0.746,1.666,1.666V28.458z"/>
+		
+			<rect x="62.993" y="8.086" fill="none" stroke="#1D1D1B" stroke-width="3" stroke-miterlimit="10" width="26.259" height="13.521"/>
+		<path fill="#1D1D1B" stroke="#1D1D1B" stroke-miterlimit="10" d="M89.252,4.419c0,0.919-0.743,1.666-1.666,1.666H64.659
+			c-0.92,0-1.666-0.747-1.666-1.666V2.166c0-0.92,0.746-1.666,1.666-1.666h22.927c0.923,0,1.666,0.746,1.666,1.666V4.419z"/>
+	</g>
 </g>
 </svg>
