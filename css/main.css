@@ -10,7 +10,7 @@ html, body{
 
 /*ENTÊTE*/
 .header{
-  margin: 40px 0px 30px 80px;
+  margin: 40px 0px 0px 80px;
 }
 
 h1{
@@ -67,21 +67,20 @@ h1{
 }
 
 .item{
-  margin: 50px 10px 0px 10px;
+  margin: 50px 10px -1px 10px;
 }
 
 .item2 {
-  margin: 50px 20px 0px 20px;
+  margin: 50px 20px -1px 20px;
 }
 
 .item3 {
-  display: inline;
-  margin: 50px 30px 0px 30px;
+  margin: 50px 30px -1px 30px;
 }
 
 .about{
 width: 628px;
-margin: 5% auto 0px auto;
+margin: 4% auto 0px auto;
 }
 
 .about>p{
@@ -93,30 +92,35 @@ margin: 5% auto 0px auto;
 
 /*MOUVEMENTS SOURIS*/
 .item:hover, .item2:hover, .item3:hover{
-  filter: invert(7%) sepia(100%) saturate(7450%) hue-rotate(248deg) brightness(103%) contrast(143%);
+  /*filter: invert(7%) sepia(100%) saturate(7450%) hue-rotate(248deg) brightness(103%) contrast(143%);*/
+  filter: contrast(0.2);
 }
 
 .moving-text {
   margin: 0px;
-  padding: 0px;
+  padding: 5px 10px;
   position:absolute;
   top: 0%;
   left: 0%;
   visibility: inherit;
-  opacity: 0;"
+  opacity: 0;
+  background-color: white;
+  border:3px solid blue;
 }
 
 .moving-text >h1{
-  text-transform:uppercase;
-  font-size: 17px;
-  font-family: "whyte-reg";
-  margin-bottom: 0px;
+text-transform:uppercase;
+font-size: 17px;
+font-family: "whyte-reg";
+margin-top: 5px;
+margin-bottom: 0px;
 }
 
 .moving-text>h3{
-  margin-top: 2px;
-  font-weight: lighter;
-  font-size: 16px;
+margin-top: 5px;
+font-weight: lighter;
+font-size: 16px;
+margin-bottom: 5px;
 }
 /*FONTS*/
 italic{
