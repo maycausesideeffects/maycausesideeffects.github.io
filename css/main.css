@@ -122,6 +122,34 @@ font-weight: lighter;
 font-size: 16px;
 margin-bottom: 5px;
 }
+
+.items>a{
+  text-decoration: none;
+  color: blue;
+}
+
+/*PAGES PROJETS*/
+
+.side, .gallery{
+  margin: 40px 80px 0px 80px;
+}
+.side >h2{
+  text-transform: uppercase;
+      font-size: 90px;
+      font-family: "whyte-reg";
+      margin-top: 5px;
+      margin-bottom: 0px;
+}
+
+.side>p{
+  font-size: 40px;
+    margin-top: 30px;
+    line-height: 1.1em;
+}
+
+.gallery{
+  text-align: center;
+}
 /*FONTS*/
 italic{
 font-family: "whyte-it"
